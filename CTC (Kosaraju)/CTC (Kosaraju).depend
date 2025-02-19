@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1709927917 source:c:\users\stefa\desktop\codeblocks\algoritmi 11-12\ctc (kosaraju)\main.cpp
+	<fstream>
+	<vector>
+	<algorithm>
+

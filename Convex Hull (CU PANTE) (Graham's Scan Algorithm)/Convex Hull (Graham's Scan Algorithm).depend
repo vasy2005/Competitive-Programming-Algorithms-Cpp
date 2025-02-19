@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1713443455 source:c:\users\stefa\desktop\codeblocks\algoritmi 11-12\convex hull (graham's scan algorithm)\main.cpp
+	<fstream>
+	<iomanip>
+	<vector>
+	<algorithm>
+
+1713468441 source:c:\users\stefa\desktop\codeblocks\algoritmi 11-12\convex hull (cu pante) (graham's scan algorithm)\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<climits>
+

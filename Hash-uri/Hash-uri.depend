@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1704305338 source:c:\users\stefa\desktop\codeblocks\algoritmi 11-12\hash-uri\main.cpp
+	<fstream>
+	<vector>
+	<algorithm>
+

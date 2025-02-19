@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1679072921 source:c:\users\stefa\desktop\codeblocks\algoritmi 11-12\lantul maxim incepand dintr-un varf intr-un arbore\main.cpp
+	<fstream>
+	<vector>
+
