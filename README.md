@@ -1,1 +1,2 @@
-Implementări diverse pentru algoritmi cunoscuți și folositori în special pentru Programarea Competitivă realizat de Vasilache Ștefan. 
+Various implementations of well-known and useful algorithms, particularly for Competitive Programming, developed by Vasilache Ștefan.
+Language: C++
